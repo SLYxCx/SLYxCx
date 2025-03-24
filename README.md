@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SLYxCx
 - 👀 I’m interested in ... Game Design
-- 🌱 I’m currently learning ... Unreal Engine 4
+- 🌱 I’m currently learning ... Unreal Engine
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
